@@ -87,3 +87,9 @@ m
 
 ✅ Outcome
 The app provides clear insights into how different stocks react to market movements, helping users better understand stock risk profiles and expected returns through CAPM. It successfully bridges data visualization and quantitative finance for intuitive financial analysis.
+
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/bfc27139-9852-47d5-8c16-dc6e3e338953)
+
+![Image](https://github.com/user-attachments/assets/26cc2239-9858-4e11-ae30-c7ea14c05b2f)
